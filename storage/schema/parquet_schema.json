@@ -1,0 +1,4 @@
+{
+  "schema": {"timestamp": "TIMESTAMP", "symbol": "STRING", "open": "FLOAT"},
+  "partition_by": ["symbol", "year", "month"]
+}

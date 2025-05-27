@@ -1,0 +1,10 @@
+{
+  "Rules": [
+    {
+      "ID": "MoveOldDataToGlacierDeepArchive",
+      "Status": "Enabled",
+      "Prefix": "",
+      "Transitions": [{"Days": 730, "StorageClass": "DEEP_ARCHIVE"}]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+pandas
+yfinance
+requests
+langchain
+openai
+streamlit
+scikit-learn
+xgboost
+matplotlib
+plotly
+finbert-embedding
+boto3
+pyyaml
